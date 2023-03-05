@@ -1,5 +1,7 @@
 ### Welcome 👋
 
+Thank you for dropping by and hopefully you find my page useful in some way.
+
 <!--
 **mtttech/mtttech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
